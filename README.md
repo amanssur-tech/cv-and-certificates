@@ -12,10 +12,10 @@ This repository contains my current CVs and proof of completed IT certificates.
 - **Introduction to Linux** by Scott Simpson – LinkedIn Learning  
     - `CertificateOfCompletion_Introduction to Linux.pdf`
 - **Networking Foundations** by Kevin Wallace – LinkedIn Learning
-    - `CertificateOfCompletion_Networking Foundations Networking Basics.pdf` – LinkedIn Learning
+    - `CertificateOfCompletion_Networking Foundations Networking Basics.pdf`
 - **Looker Studio for Beginners** by Joshua Rischin – LinkedIn Learning
-    - `CertificateOfCompletion_Looker Studio for Beginners.pdf` – LinkedIn Learning  
-- **Learn the Command Line** – Codecademy  
-    - *Certificate available upon request*  
+    - `CertificateOfCompletion_Looker Studio for Beginners.pdf`
+- **Learn the Command Line** – Codecademy
+    - *(Certificate available upon request)*  
 - **Pre-Security Learning Path** – TryHackMe
-    - *Certificate available upon request*  
+    - *(Certificate available upon request)*
